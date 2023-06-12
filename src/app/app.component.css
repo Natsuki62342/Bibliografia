@@ -1,0 +1,182 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#fondo {
+    width: 1333px;
+    height: auto;
+    background: #CBCBCB;
+    margin: 0;
+}
+
+#encabezado {
+    height: 21.7%;
+    background: #c5eaff;
+}
+
+#universidad {
+    height: 139px;
+    width: 830px;
+    font-size: 130%;
+    font-family: 'PlayfairDisplay-Bold';
+    text-align: center;
+    float: inline-start;
+}
+
+#logo_UTMACH {
+    padding: 0.5%;
+    text-align: center;
+    height: 130px;
+    width: 520px;
+    float: left;
+}
+
+@font-face {
+    src: url(PlayfairDisplay-Bold.otf);
+    font-family: 'PlayfairDisplay-Bold';
+}
+
+@font-face {
+    src: url(Baloo-Regular.ttf);
+    font-family: 'Baloo';
+}
+
+@font-face {
+    src: url(chunk.otf);
+    font-family: 'chunk';
+}
+
+@font-face {
+    src: url(pacifico.ttf);
+    font-family: 'pacifico';
+}
+
+#fondoInformacionBasica {
+    width: auto;
+    height: 375px;
+    margin: 1%;
+    background-color: #fff3d9;
+}
+
+#fotoPerfil {
+    text-align: center;
+    width: 700px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#informacion {
+    font-family: 'chunk';
+    padding-left: 15%;
+}
+
+#textoInformacionBasica {
+    width: 75%;
+    height: 45%;
+    margin-top: 0.5%;
+    background-color: #FFE0F3;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#columnaUno {
+    float: left;
+    margin-left: 50px;
+    font-family: 'Baloo';
+}
+
+#columnaDos {
+    float: left;
+    margin-top: 2.5%;
+    margin-left: 150px;
+    font-family: 'Baloo';
+}
+
+#tituloExpectativa {
+    width: auto;
+    height: 32px;
+    background-color: #000000;
+    color: #ffffff;
+    margin: 1%;
+    font-family: 'chunk';
+}
+
+#expectativasCurso {
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding-top: 0.25%;
+    border: #ffffff;
+    border-style: solid;
+}
+
+#gustosPersonales {
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding-top: 0.25%;
+    border: #ffffff;
+    border-style: solid;
+}
+
+#fondoExpectativasTexto {
+    height: 300px;
+    width: auto;
+    margin: 1%;
+    background-color: #ffd8d8;
+    font-family: 'Baloo';
+}
+
+#textoExpectativas {
+    width: 40%;
+    text-align: justify;
+    margin-top: 2%;
+    margin-left: 6%;
+    padding: 1%;
+    border: #000000;
+    border-style: solid;
+    float: left;
+}
+
+#textoPasatiempos {
+    width: 40%;
+    text-align: justify;
+    margin-top: 1%;
+    margin-left: 8%;
+    padding: 1%;
+    border: #000000;
+    border-style: solid;
+    float: left;
+}
+
+#imagenesOrientadas {
+    text-align: center;
+    border-style: double;
+    height: 50%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #3e7bff;
+    font-family: 'chunk';
+}
+
+#carouselExampleInterval {
+    margin-top: 1%;
+    text-align: center;
+    height: 275px;
+    width: 600px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#redesSociales {
+    background-color: #5977ff;
+    height: 150px;
+    width: 1333px;
+    margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+}
